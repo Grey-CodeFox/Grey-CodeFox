@@ -2,7 +2,7 @@
 
 ### Python Full Stack Developer
 
-Building web applications using **Python, Django and React**
+Building web applications using Python, Django and React, while exploring new technologies, strengthening core concepts, and finding practical solutions to problems.
 
 
 ## 🛠️ Tech Stack
