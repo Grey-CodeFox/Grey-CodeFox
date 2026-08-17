@@ -22,7 +22,7 @@ Building web applications using **Python, Django and React**
 
 ## 🚀 Notable Projects
 
-### 🏥 Pharmacy Management System
+### 🏥 Pharmacy Management System  ( https://github.com/Grey-CodeFox/Pharmacy-Management-System )
 
 Django-based pharmacy management system for managing medicines, inventory, customers and sales.
 
