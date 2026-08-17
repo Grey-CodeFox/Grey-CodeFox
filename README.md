@@ -8,16 +8,17 @@ Building web applications using **Python, Django and React**
 ## 🛠️ Tech Stack
 
 **Backend**  
-Python · Django
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=dj
 
 **Frontend**  
-HTML · CSS · JavaScript · React · Bootstrap
+🧱 HTML · 🎨 CSS · ⚡ JavaScript · ⚛️ React · 🅱️ Bootstrap
 
 **Database**  
-MySQL · SQLite
+🐬 MySQL · 🗃️ SQLite
 
 **Tools**  
-Git · GitHub · VS Code
+🔀 Git · 🐙 GitHub · 💻 VS Code
 
 
 ## 🚀 Notable Projects
