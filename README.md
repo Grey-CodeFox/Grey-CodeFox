@@ -28,13 +28,13 @@ Django-based pharmacy management system for managing medicines, inventory, custo
 
 **Tech:** Python · Django · SQLite
 
-### 📊 ERP Admin Dashboard
+### 📊 ERP Admin Dashboard ( https://github.com/Grey-CodeFox/Basic-ERP-admin-dashboard )
 
 Responsive admin dashboard with management interfaces and data visualization.
 
 **Tech:** HTML · CSS · JavaScript · Bootstrap · Chart.js
 
-### ⚡ NOW Productivity App
+### ⚡ NOW Productivity App ( https://github.com/Grey-CodeFox/now-productivity-app )
 
 Responsive productivity-focused frontend application.
 
