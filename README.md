@@ -1,4 +1,4 @@
-# Hi, I'm Arjun 👋
+# Hi, I'm Arjun Balachandran 👋
 
 ### Python Full Stack Developer
 
