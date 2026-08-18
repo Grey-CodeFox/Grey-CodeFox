@@ -1,10 +1,9 @@
 # Hi, I'm Arjun Balachandran 👋
 
-### Full-Stack Developer specializing in Python, Django, and React
+<blockquote >
+  Explore 🧭 · Build 🛠️ · Solve 🧩 
+</blockquote>
 
-<p align="center">
-  <strong>Explore 🧭 · Build 🛠️ · Solve 🧩</strong>
-</p>
 
 ## 🛠️ Tech Stack
 
