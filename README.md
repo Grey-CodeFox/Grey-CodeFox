@@ -1,9 +1,8 @@
 # Hi, I'm Arjun Balachandran 👋
 
-### Python Full Stack Developer
+### Full-Stack Developer specializing in Python, Django, and React
 
-Building web applications using Python, Django and React, while exploring new technologies, strengthening core concepts, and finding practical solutions to problems.
-
+Full-Stack Developer | Python, Django & React | Building Scalable Web Applications & Practical Tech Solutions
 
 ## 🛠️ Tech Stack
 
