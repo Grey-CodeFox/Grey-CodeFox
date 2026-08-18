@@ -1,9 +1,9 @@
 # Hi, I'm Arjun Balachandran 👋
 
-<blockquote >
-  Explore 🧭 · Build 🛠️ · Solve 🧩 
-</blockquote>
+Welcome to my humble repository.
 
+I build web apps, explore ideas, and find ways to bring them to life.
+My repositories reflect my journey of learning, experimenting, and solving real-world problems.
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,9 @@ Responsive productivity-focused frontend application.
 
 **Tech:** HTML · CSS · Bootstrap · JavaScript
 
----
+<blockquote align="center">
+  <strong>“Stay curious. Embrace change. Keep learning.”</strong>
+</blockquote>
 <!---
 Grey-CodeFox/Grey-CodeFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
