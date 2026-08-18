@@ -2,7 +2,9 @@
 
 ### Full-Stack Developer specializing in Python, Django, and React
 
-Full-Stack Developer | Python, Django & React | Building Scalable Web Applications & Practical Tech Solutions
+<p align="center">
+  <strong>Explore 🧭 · Build 🛠️ · Solve 🧩</strong>
+</p>
 
 ## 🛠️ Tech Stack
 
